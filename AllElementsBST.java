@@ -111,3 +111,9 @@ public class AllElementsBST {
     System.out.println("All elements in sorted order: " + result);
   }
 }
+
+
+
+OUTPUT : 
+All elements in sorted order: [0, 1, 1, 2, 3, 4]
+
