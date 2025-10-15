@@ -119,3 +119,18 @@ public class BSTIteratorExample {
     System.out.println(iterator.hasNext()); // false
   }
 }
+
+
+
+OUTPUT : 
+
+3
+7
+true
+9
+true
+15
+true
+20
+false
+
