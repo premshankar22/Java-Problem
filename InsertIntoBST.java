@@ -126,3 +126,12 @@ public class InsertIntoBST {
     bst.printLevelOrder(newRoot);
   }
 }
+
+
+OUTPUT : 
+
+BST after insertion:
+[4, 2, 7, 1, 3, 5]
+
+
+
