@@ -107,3 +107,12 @@ public class BSTToGreaterTree {
         converter.printInOrder(newRoot);
     }
 }
+
+
+
+OUTPUT : 
+
+In-order traversal of Greater Tree:
+36 36 35 33 30 26 21 15 8
+
+
