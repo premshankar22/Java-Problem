@@ -89,3 +89,11 @@ public class SortedArrayToBST {
     converter.printInOrder(root2);
   }
 }
+
+
+OUTPUT : 
+
+In-order traversal of BST from nums1:
+-10 -3 0 5 9 
+In-order traversal of BST from nums2:
+1 3 
