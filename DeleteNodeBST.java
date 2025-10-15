@@ -149,3 +149,8 @@ public class DeleteNodeBST {
     bst.printLevelOrder(newRoot);
   }
 }
+
+
+OUTPUT : 
+BST after deleting key 3:
+[5, 4, 6, 2, null, null, 7]
