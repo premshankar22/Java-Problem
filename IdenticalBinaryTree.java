@@ -46,3 +46,7 @@ public class IdenticalBinaryTree {
       System.out.println("Trees are not identical.");
   }
 }
+
+
+OUTPUT : 
+Trees are not identical.
