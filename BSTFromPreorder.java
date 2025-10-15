@@ -113,3 +113,9 @@ public class BSTFromPreorder {
     bstBuilder.printLevelOrder(root);
   }
 }
+
+
+OUTPUT : 
+BST constructed from preorder:
+[8, 5, 10, 1, 7, null, 12]
+
