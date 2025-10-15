@@ -96,3 +96,14 @@ public class UniqueBSTs {
     }
   }
 }
+
+
+OUTPUT : 
+
+Total unique BSTs: 5
+Tree 1: 1 null 2 null 3 null null 
+Tree 2: 1 null 3 2 null null null 
+Tree 3: 2 1 null null 3 null null 
+Tree 4: 3 1 null 2 null null null 
+Tree 5: 3 2 1 null null null null 
+
