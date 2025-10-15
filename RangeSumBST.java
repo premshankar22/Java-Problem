@@ -92,3 +92,8 @@ public class RangeSumBST {
     System.out.println("Range Sum of BST in [" + low + ", " + high + "] = " + sum);
   }
 }
+
+
+OUTPUT : 
+
+Range Sum of BST in [7, 15] = 32
