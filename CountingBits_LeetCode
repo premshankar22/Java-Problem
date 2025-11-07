@@ -26,6 +26,7 @@ Explanation:
 
 Constraints:
 0 <= n <= 105
+0 <= n <= 105
 
 
 
@@ -44,8 +45,6 @@ class Solution {
 
 
 
-LINK == https://leetcode.com/problems/counting-bits/
+LINK == https://leetcode.com/problems/counting-bits/submissions/1820330922
 
 
-
-0 <= n <= 105
